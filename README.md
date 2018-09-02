@@ -1,2 +1,3 @@
 # hello-world
-So mais um repositório.
+Olá
+Só um curiso aprendendo a programar.
